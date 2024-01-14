@@ -1,74 +1,74 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>0x16. C - SUPER SHELL</title>
-    <style>
-        body {
-            font-family: 'Arial', sans-serif;
-            line-height: 1.6;
-            margin: 20px;
-        }
+# **0x16. C - SUPER SHELL**
+🚀 **Welcome to Super Shell - Your Ultimate Command-Line Experience!** 🚀
 
-        h1 {
-            color: #1E88E5;
-        }
+![Super Shell Logo](https://yourlogo.com)
 
-        h2 {
-            color: #2E7D32;
-        }
+**Project Overview**
+Super Shell is a powerful and user-friendly UNIX command interpreter designed to elevate your command-line experience. It goes beyond the ordinary by combining simplicity with advanced features, providing you with an efficient and intuitive interface.
 
-        h3 {
-            color: #F57F17;
-        }
+## 🌐 Background Context
+Have you ever wished for a shell that effortlessly handles commands with arguments, manages the `PATH` seamlessly, and executes logical operators (`&&`, `||`) flawlessly? Your wish is granted with Super Shell!
 
-        img {
-            max-width: 100%;
-            height: auto;
-            border-radius: 8px;
-        }
+## 🚀 Features
+- **Sleek Prompt**: A stylish prompt awaits your command, making your interaction with Super Shell a delight.
 
-        ul {
-            list-style: none;
-            padding: 0;
-        }
+- **Command Perfection**: Execute commands with or without arguments. Super Shell ensures precision in every command.
 
-        li {
-            margin-bottom: 10px;
-        }
+- **PATH Prowess**: Super Shell smartly navigates the `PATH` to locate programs, ensuring a smooth execution.
 
-        a {
-            color: #1565C0;
-            text-decoration: none;
-        }
+- **Built-in Goodness**: Introducing `exit` and `env` as built-in commands. Make your shell experience even more convenient.
 
-        a:hover {
-            text-decoration: underline;
-        }
-    </style>
-</head>
-<body>
-    <h1>0x16. C - SUPER SHELL</h1>
+- **Advanced Logic Handling**: Harness the power of logical operators `&&` and `||` for efficient command chaining.
 
-    <p>🚀 <strong>Welcome to Super Shell - Your Ultimate Command-Line Experience!</strong> 🚀</p>
+- **Variable Magic**: Leverage variables like `$?` and `$$` for enhanced control and insight.
 
-    <img src="https://yourlogo.com" alt="Super Shell Logo">
+- **Comments Companion**: Super Shell recognizes your need for clarity. Add comments (`#`) to make your scripts more understandable.
 
-    <h2>Project Overview</h2>
-    <p>Super Shell is a powerful and user-friendly UNIX command interpreter designed to elevate your command-line experience. It goes beyond the ordinary by combining simplicity with advanced features, providing you with an efficient and intuitive interface.</p>
+- **File Power**: Execute commands from a file directly. Super Shell reads your script and executes commands effortlessly.
 
-    <h2>🌐 Background Context</h2>
-    <p>Have you ever wished for a shell that effortlessly handles commands with arguments, manages the <code>PATH</code> seamlessly, and executes logical operators (<code>&amp;&amp;</code>, <code>||</code>) flawlessly? Your wish is granted with Super Shell!</p>
+- **Alias Authority**: Define and use aliases to streamline your most-used commands. Your shortcuts, your way!
 
-    <!-- Add more sections as needed -->
+- **Environment Management**: Set and unset environment variables at your convenience.
 
-    <h2>📜 License</h2>
-    <p>Super Shell is open-source and distributed under the <a href="https://opensource.org/licenses/MIT" target="_blank">MIT License</a>.</p>
+## 🎓 Learning Objectives
+- Understand the inner workings of a shell, designed with insights from the original Unix operating system.
 
-    <hr>
+- Grasp the concepts of process creation, environment manipulation, and system calls.
 
-    <p>Feel the power, embrace the simplicity - Super Shell, where command-line dreams come true! 🚀💻</p>
-</body>
-</html>
+- Explore the rich history of Unix shells, with a nod to Ken Thompson, the mastermind behind the original Unix shell (`sh`).
 
+- Dive into the nuances of functions, system calls, process management, and environment variables.
+
+## 📚 Resources
+- [Unix shell](https://en.wikipedia.org/wiki/Unix_shell)
+- [Thompson shell](https://en.wikipedia.org/wiki/Thompson_shell)
+- [Ken Thompson](https://en.wikipedia.org/wiki/Ken_Thompson)
+
+## 🛠️ Requirements
+- Allowed editors: `vi`, `vim`, `emacs`
+- Code compilation: `gcc` with options `-Wall -Werror -Wextra -pedantic -std=gnu89`
+- Adherence to the [Betty style](https://github.com/alx-tools/Betty)
+- Memory leak-free code
+- No more than 5 functions per file
+- Include guards in all header files
+- Use system calls judiciously
+- A comprehensive `README.md` file
+- An `AUTHORS` file listing all contributors
+
+## 🚦 Testing
+Test Super Shell interactively or in non-interactive mode. Experience the fluidity and reliability of your ultimate command-line companion.
+
+## 🚨 Error Handling
+Super Shell ensures robust error handling, providing clear and informative messages to guide you through any unexpected situation.
+
+## 🚴‍♂️ How to Run
+1. Clone the repository.
+2. Compile using: `gcc -Wall -Werror -Wextra -pedantic -std=gnu89 *.c -o super_shell`
+3. Run with `./super_shell` for interactive mode or `./super_shell [filename]` for file input.
+
+## 📜 License
+Super Shell is open-source and distributed under the [MIT License](https://opensource.org/licenses/MIT).
+
+---
+
+Feel the power, embrace the simplicity - Super Shell, where command-line dreams come true! 🚀💻
