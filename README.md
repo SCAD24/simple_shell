@@ -1,7 +1,7 @@
 # **0x16. C - SUPER SHELL**
 🚀 **Welcome to Super Shell - Your Ultimate Command-Line Experience!** 🚀
 
-![Super Shell Logo](https://yourlogo.com)
+![Super Shell Logo](https://s3.amazonaws.com/intranet-projects-files/holbertonschool-low_level_programming/235/shell.jpeg)
 
 **Project Overview**
 Super Shell is a powerful and user-friendly UNIX command interpreter designed to elevate your command-line experience. It goes beyond the ordinary by combining simplicity with advanced features, providing you with an efficient and intuitive interface.
